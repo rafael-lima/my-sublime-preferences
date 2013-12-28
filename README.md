@@ -1,4 +1,3 @@
-my-sublime-preferences
-======================
+# My Sublime Preferences
 
-My preferences for the editor Sublime Text. ;)
+Preferences for my amazing editor, Sublime Text! ;)
