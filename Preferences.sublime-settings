@@ -1,15 +1,11 @@
 {
-	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"font_face": "consolas",
 	"font_size": 9,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"SublimeGit"
 	],
-	"itg_sidebar_tree_large": true,
-	"itg_sidebar_tree_medium": true,
-	"itg_sidebar_tree_small": true,
-	"itg_sidebar_tree_xlarge": true,
-	"itg_sidebar_tree_xsmall": true,
-	"itg_small_tabs": true,
-	"theme": "itg.flat.dark.green.sublime-theme"
+	"theme": "Spacegray.sublime-theme"
 }
