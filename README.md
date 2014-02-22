@@ -14,9 +14,7 @@ Whole my packages are on [packages/](packages/). But to use, you need install on
 
 ## Snippets
 
-I use some snippets to code reuse, but yet i'm work on this path, and i'll create some snippets.
-
-*TODO - Create some snippets, and add snippets path.*
+I use some snippets to code reuse, you can find on [snippets/](snippets/) path. These are the snippets that i created for SASS Projects ([SASS Comment Snippets](https://github.com/rafael-lima/sass-comment-snippets)).
 
 ## Theme
 
