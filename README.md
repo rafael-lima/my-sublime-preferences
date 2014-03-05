@@ -10,15 +10,15 @@ The *preferences* are on [Preferences.sublime-settings](/Preferences.sublime-set
 
 ## Packages
 
-Whole my packages are on [packages/](packages/). But to use, you need install on the [Package Controls](https://sublime.wbond.net/) of *Sublime Text*.
+Whole my packages are on [packages/](packages/). But to use, you need install on the [Package Control](https://sublime.wbond.net/) of *Sublime Text*.
 
 ## Snippets
 
-I use some snippets to code reuse, you can find on [snippets/](snippets/) path. These are the snippets that i created for SASS Projects ([SASS Comment Snippets](https://github.com/rafael-lima/sass-comment-snippets)).
+I use some snippets to code reuse, you can find on [snippets/](snippets/) path. These are the snippets that I created for SASS Projects ([SASS Comment Snippets](https://github.com/rafael-lima/sass-comment-snippets)).
 
 ## Theme
 
-I use as *UI Theme* the [Spacegray](http://kkga.github.io/spacegray/), is a clean and beautiful theme. And, as *Color Scheme* i use the Spacegray Ocean, it is the own color scheme of the Spacegray.
+I use as *UI Theme* the [Spacegray](http://kkga.github.io/spacegray/), is a clean and beautiful theme. And, as *Color Scheme* I use the Spacegray Ocean, it is the own color scheme of the Spacegray.
 
 ## Icon
 
