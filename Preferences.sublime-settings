@@ -1,11 +1,10 @@
 {
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-	"font_face": "consolas",
-	"font_size": 9,
+	"color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+	"font_face": "Consolas",
+	"font_size": 10,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeGit"
 	],
-	"theme": "Spacegray.sublime-theme"
+	"theme": "Spacegray.sublime-theme",
+	"trim_trailing_white_space_on_save": true
 }
